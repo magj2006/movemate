@@ -7,7 +7,8 @@ authors = ["David Lucid <david@pentagon.xyz>"]
 std = "0x1"
 aptos_std = "0x1"
 aptos_framework = "0x1"
-movemate = "0x3953993C1D8DFB8BAC2DA2F4DBA6521BA3E705299760FBEE6695E38BCE712A82"
+# movemate = "0x3953993C1D8DFB8BAC2DA2F4DBA6521BA3E705299760FBEE6695E38BCE712A82"
+movemate = "0x038756f41e30df289195bd0a93633dbd852c3fe01b2a522ab5e63954dfb80b58"
 
 
 [dependencies.AptosFramework]
