@@ -1,4 +1,6 @@
 /.aptos/
 /Makefile
 /build/
+
+/aptos/build/
 /.idea
